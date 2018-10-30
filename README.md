@@ -1,1 +1,1 @@
-# gsit_script
+# gist_script
